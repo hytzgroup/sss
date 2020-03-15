@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "@grapecity/wijmo.react.all": "5.20193.637-rc",
-        "bootstrap": "3.3.7",
+        "bootstrap": "3.4.1",
         "systemjs": "0.19.40",
         "plugin-typescript": "8.0.0",
         "typescript": "3.1.2",
